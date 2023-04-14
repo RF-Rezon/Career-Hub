@@ -1,0 +1,28 @@
+{
+  "job_categories": [
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/d7f07k7/accounts-1.png",
+      "title": "Software Development",
+      "available_posts": 10
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/M68kzqm/business-1.png",
+      "title": "Marketing",
+      "available_posts": 5
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/C915zpB/social-media-1.png",
+      "title": "Customer Support",
+      "available_posts": 3
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/qB9nc67/chip-1.png",
+      "title": "Human Resources",
+      "available_posts": 2
+    }
+  ]
+}

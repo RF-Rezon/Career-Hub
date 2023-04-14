@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "phone": 212113113,
+    "email": "somebody@gmail.com",
+    "image": "https://i.ibb.co/BzWX12X/google-1-1-1.png",
+    "title": "Software Engineer",
+    "company": "Acme Inc.",
+    "remote_or_onsite": "Onsite",
+    "jd": "A Software Engineer is an IT professional who designs, develops and maintains computer software at a company. They use their creativity and technical skills and apply the principles of software engineering to help solve new and ongoing problems for an organization.",
+    "jr": "Execute full software development life cycle (SDLC) Develop flowcharts, layouts and documentation to identify requirements and solutions. Write well-designed, testable code. Produce specifications and determine operational feasibility. Integrate software components into a fully functional software system.",
+    "location": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    },
+    "min_salary": 10000,
+    "max_salary": 20000,
+    "jobType": {
+      "full": "Full Time",
+      "half": "Remote"
+    }
+  },
+  {
+    "id": 2,
+    "phone": 212113232,
+    "email": "somebody2@gmail.com",
+    "image": "https://i.ibb.co/ccNYGGJ/netflix-4-1.png",
+    "title": "Data Analyst",
+    "company": "Globex Corp.",
+    "jd": "A Data Analyst's responsibilities include the deep analysis of data and then determining the best way to represent it visually to managers and stakeholders. They also ensure quality assurance and process documentation and define Key Performance Indicators (KPIs).",
+    "jr": "Data analysts are responsible for analyzing data using statistical techniques, implementing and maintaining databases, gathering data from primary and secondary sources, identifying, analyzing and interpreting trends from the data.",
+    "location": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    "min_salary": 10000,
+    "max_salary": 25000,
+    "jobType": {
+      "full": "Full Time",
+      "half": "Remote"
+    }
+  },
+  {
+    "id": 3,
+    "phone": 21211312232,
+    "email": "somebody3@gmail.com",
+    "image": "https://i.ibb.co/Qj8wwbT/tesla-9-1.png",
+    "title": "Marketing Manager",
+    "company": "Initech LLC",
+    "jd": "A marketing manager would undertake market research, understand the trends and customer preferences, create marketing strategy and budgets, oversee the creation of marketing materials and content, and perform all other relevant tasks essential for increasing the business's sales.",
+    "jr": "It serves as the face of your company, coordinating and producing all materials representing the business. It is the Marketing Department's job to reach out to prospects, customers, investors and/or the community, while creating an overarching image that represents your company in a positive light.",
+    "location": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    "min_salary": 20000,
+    "max_salary": 27000,
+    "jobType": {
+      "full": "Full Time",
+      "half": "Remote"
+    }
+  },
+  {
+    "id": 4,
+    "phone": 2121131124242,
+    "email": "somebody4@gmail.com",
+    "image": "https://i.ibb.co/1TTv2Jx/Group-10021.png",
+    "title": "Product Designer",
+    "company": "Design Co.",
+    "jd": "Product Designers are responsible for coming up with new product designs that meet the needs and wants of consumers. They will have many duties, such as creating design concepts, drawing ideas to determine which one is best suited for the product, and communicating their plans effectively so engineers can execute them.",
+    "jr": "Product Designers are responsible for coming up with new product designs that meet the needs and wants of consumers. They will have many duties, such as creating design concepts, drawing ideas to determine which one is best suited for the product, and communicating their plans effectively so engineers can execute them.",
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "min_salary": 28000,
+    "max_salary": 37000,
+    "jobType": {
+      "full": "Full Time",
+      "half": "Remote"
+    }
+  },
+  {
+    "id": 5,
+    "phone": 212113124224,
+    "email": "somebody5@gmail.com",
+    "image": "https://i.ibb.co/BzWX12X/google-1-1-1.png",
+    "title": "Business Analyst",
+    "company": "Strategy Inc.",
+    "jd": "Business analysts (also known as a BA) help to define business problems via in-depth investigation and gathering of technical and non-technical information. Once the issue is clearly understood, they outline detailed requirements for a solution and ensure the delivered solution meets those business requirements. They are most often engaged to work on IT and business transformation projects, but can also be deployed onto projects in other departments too.",
+    "jr": "Gathering, validating and documenting business requirements. Modelling business processes and identifying opportunities for process improvements. dentifying issues, risks and benefits of existing and proposed solutions and outlining business impacts.",
+    "location": {
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    "min_salary": 90000,
+    "max_salary": 100000,
+    "jobType": {
+      "full": "Full Time",
+      "half": "Remote"
+    }
+  },
+  {
+    "id": 6,
+    "phone": 2121131134242,
+    "email": "somebody6@gmail.com",
+    "image": "https://i.ibb.co/Qj8wwbT/tesla-9-1.png",
+    "title": "UX Researcher",
+    "company": "Pixel Co.",
+    "jd": "Your role as a UX researcher will be to deliver the best possible experience for the users of a website, making the website as straightforward to use as possible. As well as researching user behaviour and preference, you'll also look at the content of websites and consider design elements such as colours and images.",
+    "jr": "Your role as a UX researcher will be to deliver the best possible experience for the users of a website, making the website as straightforward to use as possible. As well as researching user behaviour and preference, you'll also look at the content of websites and consider design elements such as colours and images.",
+    "location": {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    "min_salary": 50000,
+    "max_salary": 100000,
+    "jobType": {
+      "full": "Full Time",
+      "half": "Remote"
+    }
+  }
+]
